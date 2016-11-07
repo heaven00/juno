@@ -1,0 +1,7 @@
+*.csv
+*.zip
+*.obj
+*.out
+*.npy
+__pycache__
+.ipynb_checkpoints
